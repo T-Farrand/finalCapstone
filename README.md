@@ -1,14 +1,14 @@
 # finance_calculators.py
 Final Capstone project for HyperionDev skills bootcamp
 
-# What does finance_calculators.py do?
+## What does finance_calculators.py do?
 Finance Calculators allows the user to choose whether they want to calculate the value of an investment or a bond.
 It then takes the relevant information to calculate these values and outputs the result for the user.
 
-# Installing finance_calculators.py
+## Installing finance_calculators.py
 To use finance_calculators.py, simply download it from this repository onto your computer. From there, enure you have the latest version of Python downloaded on your machine, and finance_calculators.py should run smoothly!
 
-# finance_calculators.py in action
+## finance_calculators.py in action
 finance_calculators.py is not case sensitive:
 
 ![image](https://github.com/T-Farrand/finalCapstone/assets/138404468/072e2475-a2d2-4716-a85a-ef3b7e6bfa0c)
